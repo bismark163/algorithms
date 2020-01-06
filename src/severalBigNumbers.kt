@@ -1,7 +1,7 @@
 fun main() {
 
     val count = 7
-    var numbers: MutableList<Int> = mutableListOf(2, 2727, 6234, 2898, 123897, 123, 32, 1)
+    var numbers: MutableList<Int> = mutableListOf(2, 2727, 6234)
     val size = numbers.size
     var finalList = mutableListOf<Int>()
     var num = 0
